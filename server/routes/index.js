@@ -1,4 +1,5 @@
 'use strict';
+
 const weatherRouter = require('./weather.routes.js');
 
 module.exports = function(app) {

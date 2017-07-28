@@ -1,4 +1,5 @@
-// var http = require('http');
+'use strict';
+
 var express = require('express'),
     app = express(),
     routes = require('./server/routes/index.js'),

@@ -1,4 +1,6 @@
-const express  = require('express');
+'use strict';
+
+const express = require('express');
 const router = express.Router();
 const weatherCtrl = require('../controllers/weather.controller.js');
 
